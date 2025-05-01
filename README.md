@@ -1,10 +1,10 @@
 # GlucoGuide
 LLM-Powered Blood Sugar Insights
 
-# Purpose
+## Purpose
 To build hands-on experience with large language models and AI tools commonly used in industry, while creating a useful product for people with diabetes. This project will demonstrate the abilit to integrate time-series data, domain-specefic knowledge, and generative AI for personalized health insights
 
-# Core Features 
+## Core Features 
 
 1. Interactive Dashboard: Select a timeframe (1 week to 1 year) to visualize blood sugar patterns.
 
@@ -15,7 +15,7 @@ To build hands-on experience with large language models and AI tools commonly us
 4. Personalized Insights: Use structured rules and LLM reasoning to interpret patterns and explain them in accessible language.
 
 
-# Tech Stack (Tentative)
+## Tech Stack (Tentative)
 Frontend: Streamlit or Dash for dashboard development
 
 Backend/Modeling: Python, Pandas, NumPy, PyTorch or TensorFlow
